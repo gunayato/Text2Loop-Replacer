@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/04/20 11:50:57.887.dproj,C:\Users\Utilisateur\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\Utilisateur\Documents\RAD Studio\Projects\TextReplacer.dproj</Transaction>
+    <Transaction>2012/04/20 11:51:56.892.pas,C:\Users\Utilisateur\Documents\RAD Studio\Projects\Unit2.pas=D:\- Guillaume -\@Delphi\Text Replacer\Unit2.pas</Transaction>
+    <Transaction>2012/04/20 11:51:56.892.dfm,C:\Users\Utilisateur\Documents\RAD Studio\Projects\Unit2.dfm=D:\- Guillaume -\@Delphi\Text Replacer\Unit2.dfm</Transaction>
+    <Transaction>2012/04/20 11:51:58.827.dproj,C:\Users\Utilisateur\Documents\RAD Studio\Projects\TextReplacer.dproj=D:\- Guillaume -\@Delphi\Text Replacer\TextReplacer.dproj</Transaction>
+    <Transaction>2012/04/20 11:52:08.278.pas,D:\- Guillaume -\@Delphi\Text Replacer\Unit2.pas=D:\- Guillaume -\@Delphi\Text Replacer\Main.pas</Transaction>
+    <Transaction>2012/04/20 11:52:08.278.dfm,D:\- Guillaume -\@Delphi\Text Replacer\Unit2.dfm=D:\- Guillaume -\@Delphi\Text Replacer\Main.dfm</Transaction>
+    <Transaction>2012/10/17 15:08:09.970.pas,D:\- Guillaume -\@Delphi\Text Replacer D2010\Unit1.pas=D:\- Guillaume -\@Delphi\Text Replacer D2010\ExcelImportExport.pas</Transaction>
+  </Transactions>
+</BorlandProject>
