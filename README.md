@@ -1,6 +1,7 @@
-
 Text2Loop - Allow you to produce a collection of text from an initial one.
 by Guillaume Estrada
+Written in Delphi 2010
+GNU License v3 (GPL v3)
 
 To build a final text :
 
@@ -23,3 +24,6 @@ In normal mode, the final text will be:
 3 - Footer text
 
 Save or copy to clipboard the final text. End.
+
+
+Version: 1.3.0.6
